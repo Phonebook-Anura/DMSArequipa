@@ -61,8 +61,4 @@
 <Unit Name="RAUL BOCANEGRA GUZMAN" default_photo="Resource:icon_family_b.png" Phone3="" Phone2="" Phone1="548"/>
 <Unit Name="RENZO LIZA CARRILLO" default_photo="Resource:icon_family_b.png" Phone3="" Phone2="" Phone1="550"/>
 </Menu>
-<Menu Name="CORREO DE VOZ">
-<Unit Name="Mi Correo de Voz" default_photo="Resource:icon_family_b.png" Phone3="" Phone2="" Phone1="*869"/>
-<Unit Name="Correo de Voz" default_photo="Resource:icon_family_b.png" Phone3="" Phone2="" Phone1="333"/>
-</Menu>
 </YealinkIPPhoneBook>
